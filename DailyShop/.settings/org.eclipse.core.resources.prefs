@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/nhathuy/configuration/WebInitializer.java=UTF-8
+encoding//src/main/java/com/nhathuy/controller/ApiController.java=UTF-8
+encoding//src/main/java/com/nhathuy/controller/CartController.java=UTF-8
+encoding//src/main/java/com/nhathuy/controller/CheckoutController.java=UTF-8
+encoding//src/main/java/com/nhathuy/controller/ExceptionController.java=UTF-8
+encoding//src/main/java/com/nhathuy/controller/ProductController.java=UTF-8
+encoding//src/main/java/com/nhathuy/controller/RegisterController.java=UTF-8
+encoding//src/main/java/com/nhathuy/controller/TrangChuController.java=UTF-8
+encoding//src/main/java/com/nhathuy/controller/admin/QuanLySanPhamController.java=UTF-8
+encoding//src/main/java/com/nhathuy/dao/ChiTietSanPhamDAO.java=UTF-8
+encoding//src/main/java/com/nhathuy/dao/SanPhamDAO.java=UTF-8
+encoding//src/main/java/com/nhathuy/daoimpl/UserDaoImpl.java=UTF-8
+encoding//src/main/java/com/nhathuy/entity/User.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/404.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/product-detail.jsp=UTF-8
